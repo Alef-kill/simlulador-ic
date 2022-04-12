@@ -1,0 +1,9 @@
+nav {
+  background-color: var(--green-main);
+  height: 75px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 1366px;
+  margin: 0 auto;
+}
